@@ -1,0 +1,6 @@
+projectKey=vaidasbrazd_alsa
+serverUrl=http://localhost:9000
+serverVersion=7.5.0.20543
+dashboardUrl=http://localhost:9000/dashboard?id=vaidasbrazd_alsa
+ceTaskId=AXHHz3YxuxGAqss3X64A
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXHHz3YxuxGAqss3X64A
